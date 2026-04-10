@@ -1,0 +1,28 @@
+From model.py file
+
+Sample Prediction: [  55.55875109   13.90608902   21.32497622  332.20094293    5.21778778
+ 2830.84341031 3259.05195734]
+R2 Score: 0.8888666920656165
+Model RMSE: 2801.9749988566437
+Model training completed ✅
+
+
+Testing---from analysis.py file
+Input:
+
+Enter State: ANDHRA PRADESH
+Enter District: GUNTUR
+Enter Year: 2014
+
+Output:
+
+Predicted Crime Values:
+MURDER: 207
+RAPE: 47
+KIDNAPPING: 61
+THEFT: 983
+DOWRY_DEATHS: 15
+OTHER_CRIMES: 5599
+TOTAL_CRIMES: 6914
+
+Crime Level: Low
